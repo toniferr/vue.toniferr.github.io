@@ -81,7 +81,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6 brand work web">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/representados.png" alt="">
+							<img class="img-fluid" src="../assets/img/projects/representados.jpg" alt="">
 							<div class="projects_text">
 								<a href="#"><h4>{{text16}}</h4></a>
 							</div>
