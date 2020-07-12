@@ -81,7 +81,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6 brand work web">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/representados.jpg" alt="">
+							<img class="img-fluid" src="../assets/img/projects/futbolquiz.jpg" alt="">
 							<div class="projects_text">
 								<a href="#"><h4>{{text16}}</h4></a>
 							</div>
@@ -111,7 +111,7 @@ export default {
 		text13: 'PeeperJava',
 		text14: 'PeeperMaven',
 		text15: 'Personal Github Web Page',
-		text16: 'Representados'
+		text16: 'Fut90'
     }
   }
 }
