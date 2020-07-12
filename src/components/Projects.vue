@@ -110,7 +110,7 @@ export default {
 		text12: 'PortalExpress',
 		text13: 'PeeperJava',
 		text14: 'PeeperMaven',
-		text15: 'Personal Github Web Page',
+		text15: 'Github.io',
 		text16: 'Fut90'
     }
   }
