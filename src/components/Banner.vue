@@ -26,9 +26,9 @@ export default {
     name: 'Banner',
     data() {
         return {
-            text1: 'Este soy yo',
-            text2: 'Antonio Ferreiro',
-            text3: 'Bueno, en realidad no. Este es mi personaje favorito del mundo de los videojuegos: Luigi!'
+            text1: 'Hi there!',
+            text2: 'I\'m Antonio Ferreiro',
+            text3: 'I\'m a computer engineer and I work as a software developer. As you can guess, Luigi is my favorite character in the world of video games :D'
         }
     }
 }

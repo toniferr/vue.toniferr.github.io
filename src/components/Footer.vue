@@ -1,5 +1,5 @@
 <template>
-        <footer class="footer_area p_120">
+        <footer class="footer_area p_120" id="footer">
             <div class="container">
                 <div class="row footer_inner">
                     <div class="col-lg-5 col-sm-6">
@@ -35,10 +35,10 @@ export default {
     name: 'Banner',
     data() {
         return {
-            text1: 'Sobre mí',
-            text2: 'Gallego de Galicia. Antigua provincia romana, más tarde reino y ahora parte de España. Soy ingeniero informático y trabajo como desarrollador de software. Mi hobby: ver las estrellas y los planetas.',
+            text1: 'About me',
+            text2: 'Galician from Galicia. Ancient Roman province, later kingdom and now part of Spain. My hobby: seeing the stars and planets.',
             text3: 'Copyright © 2020 All rights reserved',
-            text4: 'Sígueme!'
+            text4: 'Follow me!'
         }
     }
 }

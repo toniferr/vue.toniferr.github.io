@@ -1,6 +1,6 @@
 <template>
-        <header class="header_area">
-            <div class="main_menu" id="mainNav">
+        <header class="header_area" id="index">
+          <div class="main_menu" id="mainNav">
                 <nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container box_1620">
 						<!-- Brand and toggle get grouped for better mobile display -->
@@ -13,9 +13,9 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 							<ul class="nav navbar-nav menu_nav ml-auto">
-								<li class="nav-item active"><a class="nav-link" href="index.html">{{text1}}</a></li>
-								<li class="nav-item"><a class="nav-link" href="proyectos.html">{{text2}}</a>
-								<li class="nav-item"><a class="nav-link" href="contacto.html">{{text3}}</a></li>
+								<li class="nav-item active"><a class="nav-link" href="#index" >{{text1}}</a></li>
+								<li class="nav-item"><a class="nav-link" href="#proyectos">{{text2}}</a>
+								<li class="nav-item"><a class="nav-link" href="#footer">{{text3}}</a></li>
 							</ul>
 						</div> 
 					</div>
@@ -26,6 +26,7 @@
 
 
 <script>
+
 export default {
   /*name: 'Header',
   props: {
@@ -33,9 +34,9 @@ export default {
   },*/
   data() {
     return {
-      text1: 'Inicio',
-      text2: 'Proyectos',
-      text3: 'Contacto'
+      text1: 'Home',
+      text2: 'Projects',
+      text3: 'Info'
     }
   }
 }
