@@ -59,7 +59,7 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/peeperjava.png" alt="">
 							<div class="projects_text">
-								<a href="https://github.com/toniferr/PeeperMaven" target="_blank"><h4>{{text13}}</h4></a>
+								<a href="https://github.com/toniferr/PeeperJava" target="_blank"><h4>{{text13}}</h4></a>
 							</div>
 						</div>
 					</div>
@@ -67,7 +67,7 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/peepermaven.png" alt="">
 							<div class="projects_text">
-								<a href="https://github.com/toniferr/PeeperJava" target="_blank"><h4>{{text14}}</h4></a>
+								<a href="https://github.com/toniferr/PeeperMaven" target="_blank"><h4>{{text14}}</h4></a>
 							</div>
 						</div>
 					</div>
