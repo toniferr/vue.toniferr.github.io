@@ -4,16 +4,15 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6">
-							<div class="home_left_img">
-								<img class="mi-imagen" src="../assets/img/banner/toni.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-6">
-							<div class="banner_content">
+							<div class="banner_content home_left_img">
 								<h5>{{text1}}</h5>
 								<h2>{{text2}}</h2>
 							</div>
 						</div>
+						<div class="col-lg-6">
+							<div>
+							</div>
+						</div>¡
 					</div>
 				</div>
             </div>
