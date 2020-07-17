@@ -97,8 +97,8 @@
 export default {
   data() {
     return {
-		text1: 'My projects',
-		text2: 'These are some of my personal projects',
+		text1: 'My personal projects',
+		text2: 'These are some of my personal projects in Github. You can take a look to my Github profile where I practice old and new features of programming technologies.',
 		text3: 'All categories',
 		text4: 'Spring',
 		text5: 'Struts',

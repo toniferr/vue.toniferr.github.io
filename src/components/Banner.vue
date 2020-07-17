@@ -5,14 +5,13 @@
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="home_left_img">
-								<img src="../assets/img/banner/luigi.png" alt="">
+								<img class="mi-imagen" src="../assets/img/banner/toni.jpg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-6">
 							<div class="banner_content">
 								<h5>{{text1}}</h5>
 								<h2>{{text2}}</h2>
-								<p>{{text3}}</p>
 							</div>
 						</div>
 					</div>
@@ -26,9 +25,9 @@ export default {
     name: 'Banner',
     data() {
         return {
-            text1: 'Hi there!',
-            text2: 'I\'m Antonio Ferreiro',
-            text3: 'I\'m a computer engineer and I work as a software developer. As you can guess, Luigi is my favorite character in the world of video games :D'
+            text1: 'Hi there! I\'m',
+            text2: 'Toni Ferreiro',
+            text3: 'I\'m a computer engineer and I work as a software developer.'
         }
     }
 }

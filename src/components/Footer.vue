@@ -36,7 +36,7 @@ export default {
     data() {
         return {
             text1: 'About me',
-            text2: 'Galician from Galicia. Ancient Roman province, later kingdom and now part of Spain. My hobby: seeing the stars and planets.',
+            text2: 'Galician from Galicia (ancient Roman province, later kingdom and now part of Spain). My hobby: seeing the stars and planets.',
             text3: 'Copyright © 2020 All rights reserved',
             text4: 'Follow me!'
         }
