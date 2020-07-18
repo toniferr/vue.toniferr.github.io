@@ -1,3 +1,9 @@
+.social-web-banner {
+    color: black;
+}
+.social-web-banner-m {
+    margin-left: 10px;
+}
 .home_banner_area {
 z-index: 1;
 background: url('/assets/img/banner/home-banner.jpg)') no-repeat scroll center center;
@@ -8,7 +14,7 @@ background-size: cover;
     height: 100%;
 }
 .home_banner_area .banner_inner .home_left_img {
-    padding: 195px 195px 195px 195px; 
+    padding: 195px 195px 195px 1px; 
 }
     .home_banner_area .banner_inner .col-lg-6 {
     vertical-align: middle;

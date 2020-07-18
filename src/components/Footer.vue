@@ -22,9 +22,11 @@
                                 <h3>{{text4}}</h3>
                             </div>
                             <ul class="list">
-                                <li><a href="https://www.instagram.com/toni_ferreiro/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.github.com/toniferr" target="_blank"><i class="fab fa-github"></i></a></li>
+                                <li><a href="https://es.linkedin.com/in/antonio-ferreiro-couto" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+                                <li><a href="https://www.instagram.com/toni_ferreiro" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://twitter.com/toni_ferr" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="https://www.facebook.com/toni.deutsch.3/" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                                <li><a href="https://www.facebook.com/toni.deutsch.3" target="_blank"><i class="fab fa-facebook"></i></a></li>
                             </ul>
                         </aside>
                     </div>
@@ -41,7 +43,7 @@ export default {
             text1: 'About me',
             text2: 'Galician from Galicia (ancient Roman province, later kingdom and now part of Spain). My hobbies: seeing the stars and planets and celebrate Real Madrid goals.',
             text3: 'Copyright © 2020 All rights reserved',
-            text4: 'Follow me!'
+            text4: 'Contact'
         }
     }
 }

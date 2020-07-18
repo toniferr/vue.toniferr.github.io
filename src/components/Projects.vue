@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="main_title">
 					<h2>{{text1}}</h2>
-					<p>{{text2}} <a href="https://www.github.com/toniferr" target="_blank"><i class="fab fa-github"></i></a></p>
+					<p>{{text2}}</p>
 				</div>
                 <!--<div class="projects_fillter">
 					<ul class="filter list">

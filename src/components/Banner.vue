@@ -7,6 +7,10 @@
 							<div class="banner_content home_left_img">
 								<h5>{{text1}}</h5>
 								<h2>{{text2}}</h2>
+								<div class="row">
+								<h2><a class="social-web-banner-m" href="https://www.github.com/toniferr" target="_blank"><i class="fab fa-github social-web-banner"></i></a></h2>
+                                <h2><a class="social-web-banner-m" href="https://es.linkedin.com/in/antonio-ferreiro-couto" target="_blank"><i class="fab fa-linkedin social-web-banner"></i></a></h2>
+								</div>
 							</div>
 						</div>
 						<div class="col-lg-6">

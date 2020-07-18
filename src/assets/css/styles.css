@@ -15,53 +15,68 @@
 
 a {
   text-decoration: none;
-  transition: all 0.3s ease-in-out; }
-  a:hover, a:focus {
-    text-decoration: none;
-    outline: none; }
+  transition: all 0.3s ease-in-out; 
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+  outline: none; 
+}
 
 .row.m0 {
-  margin: 0px; }
+  margin: 0px; 
+}
 
 body {
   line-height: 26px;
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: #777777; }
+  color: #777777; 
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Heebo", sans-serif;
-  font-weight: bold; }
+  font-weight: bold; 
+}
 
 button:focus {
   outline: none;
-  box-shadow: none; }
+  box-shadow: none; 
+}
 
 .p_120 {
-  padding-top: 120px;
-  padding-bottom: 120px; }
-
+  padding-top: 70px;
+  padding-bottom: 70px; 
+}
 .pad_top {
-  padding-top: 120px; }
+  padding-top: 120px; 
+}
 
 .pad_btm {
-  padding-bottom: 120px; }
+  padding-bottom: 120px; 
+}
 
 .mt-25 {
-  margin-top: 25px; }
+  margin-top: 25px; 
+}
 
 .p0 {
   padding-left: 0px;
-  padding-right: 0px; }
+  padding-right: 0px; 
+}
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1170px; } }
+    max-width: 1170px; } 
+}
 
 @media (min-width: 1620px) {
   .box_1620 {
     max-width: 1650px;
-    margin: auto; } }
+    margin: auto; 
+  }
+}
 .white_bg {
-  background: #fff !important; }
+  background: #fff !important; 
+}
