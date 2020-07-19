@@ -14,7 +14,7 @@
                     <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                       <ul class="nav navbar-nav menu_nav ml-auto">
                         <li class="nav-item active"><a class="nav-link" href="#index" >{{text1}}</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#proyectos">{{text2}}</a>
+                        <li class="nav-item"><a class="nav-link" href="#experience">{{text2}}</a>
                         <li class="nav-item"><a class="nav-link" href="#proyectos">{{text3}}</a>
                         <li class="nav-item"><a class="nav-link" href="#footer">{{text4}}</a></li>
                       </ul>
@@ -36,7 +36,7 @@ export default {
   data() {
     return {
       text1: 'Home',
-      text2: 'Enterprise',
+      text2: 'Education & Experience',
       text3: 'Projects',
       text4: 'Info'
     }

@@ -56,7 +56,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6 struts">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/setup-tecnorepo.png" alt="">
+							<img class="img-fluid" src="../assets/img/projects/setup-tecnorepo.jpg" alt="">
 							<div class="projects_text">
 								<h4>{{text11}}</h4>
 							</div>
@@ -82,7 +82,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/peeperjava.png" alt="">
+							<img class="img-fluid" src="../assets/img/projects/peeperjava.jpg" alt="">
 							<div class="projects_text">
 								<h4>{{text13}}</h4>
 							</div>
@@ -95,7 +95,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/peepermaven.png" alt="">
+							<img class="img-fluid" src="../assets/img/projects/peepermaven.jpg" alt="">
 							<div class="projects_text">
 								<h4>{{text14}}</h4>
 							</div>
@@ -164,9 +164,9 @@ export default {
 		text14: 'PeeperMaven',
 		text141: 'Application multi-module focused on the practice of features of the maven project.',
 		text15: 'Github.io',
-		text151: 'Desarrollo con framework Vue.js de la web personal publicada en https://toniferr.github.io',
+		text151: 'Web personal made with Vue.js and published in https://toniferr.github.io',
 		text16: 'Fut90',
-		text161: 'En Construccion'
+		text161: 'In progress'
     }
   }
 }

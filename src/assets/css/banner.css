@@ -46,46 +46,6 @@ background-size: cover;
     .home_banner_area .banner_inner .banner_content .banner_map_img {
         text-align: right; }
 
-.blog_banner {
-min-height: 780px;
-position: relative;
-z-index: 1;
-overflow: hidden;
-margin-bottom: 0px; }
-.blog_banner .banner_inner {
-    background: #04091e;
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    min-height: 780px;
-    z-index: 1; }
-    .blog_banner .banner_inner .overlay {
-    background: url('/assets/img/banner/banner-2.jpg)') no-repeat scroll center center;
-opacity: .5;
-height: 125%;
-position: absolute;
-left: 0px;
-top: 0px;
-width: 100%;
-z-index: -1; }
-.blog_banner .banner_inner .blog_b_text {
-max-width: 700px;
-margin: auto;
-color: #fff;
-margin-top: 40px; }
-.blog_banner .banner_inner .blog_b_text h2 {
-font-size: 60px;
-font-weight: 500;
-font-family: "Roboto", sans-serif;
-line-height: 66px;
-margin-bottom: 15px; }
-.blog_banner .banner_inner .blog_b_text p {
-font-size: 16px;
-margin-bottom: 35px; }
-.blog_banner .banner_inner .blog_b_text .white_bg_btn {
-line-height: 42px;
-padding: 0px 45px; }
-
 .banner_box {
 max-width: 1620px;
 margin: auto; }

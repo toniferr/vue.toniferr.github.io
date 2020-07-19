@@ -2,6 +2,7 @@
   <div id="app">
     <Header></Header>
     <Banner></Banner>
+    <Experience></Experience>
     <Projects></Projects>
     <!--<img alt="Vue logo" src="./assets/logo.png"> -->
     <!--<Header msg="Welcome to Your Vue.js App"/> -->
@@ -12,6 +13,7 @@
 <script>
 import Header from './components/Header.vue'
 import Banner from './components/Banner.vue'
+import Experience from './components/Experience.vue'
 import Projects from './components/Projects.vue'
 import Footer from './components/Footer.vue'
 
@@ -20,6 +22,7 @@ export default {
   components: {
     Header,
     Banner,
+    Experience,
     Projects,
     Footer
   }
