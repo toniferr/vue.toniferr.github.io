@@ -41,7 +41,7 @@ export default {
     data() {
         return {
             text1: 'About me',
-            text2: 'Galician from Galicia (ancient Roman province, later kingdom and now part of Spain). My hobbies: seeing the stars and planets and celebrate Real Madrid goals.',
+            text2: 'Galician from Galicia (ancient Roman province, later kingdom and now part of Spain). My hobbies: seeing the stars and planets and celebrate the victories of Real Madrid.',
             text3: 'Copyright © 2020 All rights reserved',
             text4: 'Contact'
         }
