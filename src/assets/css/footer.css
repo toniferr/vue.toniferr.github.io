@@ -1,10 +1,16 @@
+.footer-m{
+  margin-top: 40px;
+}
+
 .foto-footer{
   height: 180px;
   border-radius: 50%;
 }
 
 .footer_area {
-    background: #000410; }
+    background: #000410; 
+    text-align: center;
+  }
   
   .f_title {
     margin-bottom: 35px; }

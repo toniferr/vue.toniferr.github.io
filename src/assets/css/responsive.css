@@ -22,6 +22,7 @@
 }
 
 @media (max-width:991px){
+
 	.box_1620 .titulo-nombre {
 		color: black;
 		margin-left: 20px;
@@ -129,6 +130,7 @@
 	}
 	.footer_area .footer_inner{
 		margin-bottom: -30px;
+		text-align: center;
 	}
 	.news_widget {
 		padding-left: 0px;
@@ -154,6 +156,9 @@
 	}
 }
 @media (max-width:767px){
+	.home_left_img {		
+		padding: 195px 45px 195px 0px !important; 
+	}
 	.home_banner_area {
 		min-height: 500px;
 	}
@@ -225,8 +230,8 @@
 		margin-top: 0px;
 	}
 	.p_120 {
-		padding-top: 70px;
-		padding-bottom: 70px;
+		padding-top: 40px;
+		padding-bottom: 60px;
 	}
 	.main_title h2 {
 		font-size: 25px;
@@ -256,8 +261,8 @@
 		margin-bottom: 25px;
 	}
 	.projects_inner {
-		max-width: 360px;
-		margin: 0px auto -30px;
+		max-width: 395px;
+		margin: 0px auto -30px !important;
 	}
 	.projects_fillter .filter li {
 		margin-right: 20px;
