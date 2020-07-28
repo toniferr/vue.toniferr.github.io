@@ -70,7 +70,27 @@ button:focus {
   padding-right: 0px; 
 }
 
+@media (min-width: 576px) {
+  .home_banner_area .banner_inner .container, .container-sm {
+      max-width: 700px;
+  }
+}
+
+@media (min-width: 768px) {
+  .home_banner_area .banner_inner .container, .container-sm {
+      max-width: 843px;
+  }
+}
+
+@media (min-width: 992px) {
+  .home_banner_area .banner_inner .container, .container-sm {
+      max-width: 900px;
+  }
+}
+
 @media (min-width: 1200px) {
+  .home_banner_area .banner_inner .container, .container-sm {
+    max-width: 1170px; } 
   .container {
     max-width: 1170px; } 
 }

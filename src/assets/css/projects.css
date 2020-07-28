@@ -45,6 +45,12 @@
     transition: all 300ms ease; 
 }
 
+.projects_item .img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 20px !important;
+}
+
 .projects_item .projects_text {
     position: absolute;
     left: 0px;

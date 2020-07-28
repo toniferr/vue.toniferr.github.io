@@ -42,8 +42,8 @@ export default {
     data() {
         return {
             text1: 'About me',
-            text2: 'Galician from Galicia (ancient Roman province, later kingdom and now part of Spain). My hobbies: seeing the stars and planets and celebrate the victories of Real Madrid.',
-            text3: 'Copyright © 2020 All rights reserved',
+            text2: 'I\'m Galician and I live in Galicia (ancient Roman province, later kingdom and now part of Spain). I studied computer engineering at the University of Vigo (2012-2016) and since then I have been working as a software developer.',
+            text3: 'My hobbies are reading history books, seeing the stars and planets, cycling, and celebrating Real Madrid victories.',
             text4: 'Contact'
         }
     }
