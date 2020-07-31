@@ -121,13 +121,13 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/futbolquiz.jpg" alt="">
+							<img class="img-fluid" src="../assets/img/projects/peeper.jpg" alt="">
 							<div class="projects_text">
 								<h4>{{text16}}</h4>
 							</div>
-							<a href="#" target="_blank">
+							<a href="https://github.com/toniferr/Peeper" target="_blank">
 								<div class="overlay">
-									<div href="#" target="_blank" class="text">{{text161}}</div>
+									<div class="text">{{text161}}</div>
 								</div>
 							</a>
 						</div>
@@ -142,7 +142,7 @@
 export default {
   data() {
     return {
-		text1: 'My personal projects',
+		text1: 'Github projects',
 		text2: 'These are some of my personal projects in Github. You can also take a look directly to my Github profile where I practice old and new features of programming technologies.',
 		text3: 'All categories',
 		text4: 'Spring',
@@ -165,8 +165,8 @@ export default {
 		text141: 'Application multi-module focused on the practice of features of the maven project.',
 		text15: 'Github.io',
 		text151: 'Web personal made with Vue.js and published in https://toniferr.github.io',
-		text16: 'Fut90',
-		text161: 'In progress'
+		text16: 'Peeper',
+		text161: 'Spring Boot application with Thymeleaf templates and h2 database (maven project)'
     }
   }
 }
