@@ -160,11 +160,11 @@ export default {
 		text12: 'PortalExpress',
 		text121: 'Node Application made with Express Framework and Pug engine template',
 		text13: 'PeeperJava',
-		text131: 'Application multi-module with different java sources version (Gradle project). Focused on the practice of new features of the java language.',
+		text131: 'Multimodule application with different java sources version (Gradle project). Focused on the practice of new features of the java language.',
 		text14: 'PeeperMaven',
-		text141: 'Application multi-module focused on the practice of features of the maven project.',
+		text141: 'Multimodule application ocused on the practice of features of the maven project.',
 		text15: 'Github.io',
-		text151: 'Web personal made with Vue.js and published in https://toniferr.github.io',
+		text151: 'Personal Web made with Vue.js and published in https://toniferr.github.io',
 		text16: 'Peeper',
 		text161: 'Spring Boot application with Thymeleaf templates and h2 database (maven project)'
     }
