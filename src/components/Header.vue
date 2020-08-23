@@ -13,7 +13,7 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                       <ul class="nav navbar-nav menu_nav ml-auto">
-                        <li class="nav-item active"><a class="nav-link" href="#index" >{{text1}}</a></li>
+                        <!--<li class="nav-item active"><a class="nav-link" href="#index" >{{text1}}</a></li>-->
                         <li class="nav-item"><a class="nav-link" href="#proyectos">{{text4}}</a>
                         <li class="nav-item"><a class="nav-link" href="#footer">{{text5}}</a></li>
                       </ul>

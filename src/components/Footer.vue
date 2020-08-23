@@ -40,8 +40,8 @@ export default {
     data() {
         return {
             text1: 'About me',
-            text2: 'I\'m Galician and I live in Galicia (ancient Roman province, later kingdom and now part of Spain). I studied computer engineering at the University of Vigo and since 2016 I am working as a full stack software developer.',
-            text3: 'In addition, I also observe the stars and planets, I spend history books, I enjoy cycling and I celebrate the victories of Real Madrid :)',
+            text2: 'I\'m Galician and I live in Galicia (Spain). I studied computer engineering at the University of Vigo and since 2016 I am working as a full stack software developer in Santiago de Compostela.',
+            text3: 'In addition, I also observe the stars and planets, I read history books, I enjoy cycling and I celebrate the victories of Real Madrid :)',
             text4: 'Contact'
         }
     }
