@@ -162,7 +162,7 @@ export default {
 		text13: 'PeeperJava',
 		text131: 'Multimodule application with different java sources version (Gradle project). Focused on the practice of new features of the java language.',
 		text14: 'PeeperMaven',
-		text141: 'Multimodule application ocused on the practice of features of the maven project.',
+		text141: 'Multimodule application focused on the practice of features of the maven project.',
 		text15: 'Github.io',
 		text151: 'Personal Web made with Vue.js and published in https://toniferr.github.io',
 		text16: 'Peeper',
