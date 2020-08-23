@@ -38,7 +38,7 @@ export default {
       text2: 'Education & Experience',
       text3: 'Courses & Skills',
       text4: 'Projects',
-      text5: 'Info'
+      text5: 'About'
     }
   }
 }

@@ -3,8 +3,6 @@
     <Header></Header>
     <Banner></Banner>
     <Projects></Projects>
-    <!--<img alt="Vue logo" src="./assets/logo.png"> -->
-    <!--<Header msg="Welcome to Your Vue.js App"/> -->
     <Footer></Footer>
   </div>
 </template>

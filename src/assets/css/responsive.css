@@ -10,6 +10,7 @@
 		padding-left: 120px;
 	}
 }
+
 @media (max-width:1199px){
 	.header_area .navbar .nav .nav-item {
 		margin-right: 28px;
@@ -123,7 +124,7 @@
 		margin-left: 22px;
 	}
 	.header_area.white_menu .navbar-nav {
-		height: 215px !important;
+		height: 155px !important;
 	}
 	.contact_info{
 		margin-bottom: 50px;
@@ -142,9 +143,6 @@
 		margin-bottom: -30px;
 		text-align: center;
 	}
-	.news_widget {
-		padding-left: 0px;
-	}	
 	.home_banner_area .banner_inner .home_left_img {
 		padding-top: 0px;
 	}
@@ -165,6 +163,7 @@
 		padding-left: 0px;
 	}
 }
+
 @media (max-width:767px){
 	
 	.home_left_img {		
@@ -211,6 +210,7 @@
 		margin-top: 50px;
 	}
 }
+
 @media (max-width:600px){
 }
 
