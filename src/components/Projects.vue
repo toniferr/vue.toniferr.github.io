@@ -2,8 +2,8 @@
         <section class="projects_area p_120" id="proyectos">
             <div class="container">
                 <div class="main_title">
-					<h2>{{text1}}</h2>
-					<p>{{text2}}</p>
+					<h2>{{ $t('github.projects') }}</h2>
+					<p>{{ $t('github.definition') }}</p>
 				</div>
                 <!--<div class="projects_fillter">
 					<ul class="filter list">
@@ -19,11 +19,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/eurosnovos.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text8}}</h4>
+								<h4>{{ $t('github.eurosnovos') }}</h4>
 							</div> 
 							<a href="https://github.com/toniferr/eurosnovos" target="_blank"> 
 								<div class="overlay">
-									<div class="text">{{text81}}</div>
+									<div class="text">{{ $t('github.eurosnovosdef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -32,11 +32,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/cryptokit.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text9}}</h4>
+								<h4>{{ $t('github.cryptokit') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/cryptoKit" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text91}}</div>
+									<div class="text">{{ $t('github.cryptokitdef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -45,11 +45,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/setup-makeup.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text10}}</h4>
+								<h4>{{ $t('github.setupmakeup') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/setup-makeup" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text101}}</div>
+									<div class="text">{{ $t('github.setupmakeupdef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -58,11 +58,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/setup-tecnorepo.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text11}}</h4>
+								<h4>{{ $t('github.setuptecnorepo') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/setup-tecnorepo" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text111}}</div>
+									<div class="text">{{ $t('github.setuptecnorepodef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -71,11 +71,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/express.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text12}}</h4>
+								<h4>{{ $t('github.express') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/portalExpress" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text121}}</div>
+									<div class="text">{{ $t('github.expressdef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -84,11 +84,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/peeperjava.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text13}}</h4>
+								<h4>{{ $t('github.peeper') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/PeeperJava" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text131}}</div>
+									<div class="text">{{ $t('github.peeperdef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -97,11 +97,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/peepermaven.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text14}}</h4>
+								<h4>{{ $t('github.peepermaven') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/PeeperMaven" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text141}}</div>
+									<div class="text">{{ $t('github.peepermavendef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -110,11 +110,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/toniferrgithub.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text15}}</h4>
+								<h4>{{ $t('github.io') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/dev.toniferr.github.io" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text151}}</div>
+									<div class="text">{{ $t('github.iodef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -123,11 +123,11 @@
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/peeper.jpg" alt="">
 							<div class="projects_text">
-								<h4>{{text16}}</h4>
+								<h4>{{ $t('github.peeper') }}</h4>
 							</div>
 							<a href="https://github.com/toniferr/Peeper" target="_blank">
 								<div class="overlay">
-									<div class="text">{{text161}}</div>
+									<div class="text">{{ $t('github.peeperdef') }}</div>
 								</div>
 							</a>
 						</div>
@@ -136,38 +136,3 @@
             </div>
         </section>
 </template>
-
-<script>
-
-export default {
-  data() {
-    return {
-		text1: 'Github projects',
-		text2: 'These are some of my personal projects in Github. You can also take a look directly to my Github profile where I practice old and new features of programming technologies.',
-		text3: 'All categories',
-		text4: 'Spring',
-		text5: 'Struts',
-		text6: 'JavaScript',
-		text7: 'Java Swing',
-		text8: 'Euros Novos',
-		text81: 'Spring Boot application with Thymeleaf templates and Mysql database (Maven project)',
-		text9: 'CryptoKit',
-		text91: 'Java Development with Swing tecnology for encryption / decryption using different algorithms (Maven project)',
-		text10: 'Setup-makeup',
-		text101: 'Web application with Spring MVC framework (XML configuration) and Apache Tiles 3 (Maven project)',
-		text11: 'Setup-tecnorepo',
-		text111: 'Web application with Struts 2 Framework and Hibernate (XML configuration) (Maven project)',
-		text12: 'PortalExpress',
-		text121: 'Node Application made with Express Framework and Pug engine template',
-		text13: 'PeeperJava',
-		text131: 'Multimodule application with different java sources version (Gradle project). Focused on the practice of new features of the java language.',
-		text14: 'PeeperMaven',
-		text141: 'Multimodule application focused on the practice of features of the maven project.',
-		text15: 'Github.io',
-		text151: 'Personal Web made with Vue.js and published in https://toniferr.github.io',
-		text16: 'Peeper',
-		text161: 'Spring Boot application with Thymeleaf templates and h2 database (maven project)'
-    }
-  }
-}
-</script>

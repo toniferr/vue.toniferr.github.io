@@ -1,0 +1,39 @@
+{
+    "nav": {
+        "projects": "Projects",
+        "about": "About me"
+    },
+    "banner": {
+        "hi": "Hi there! I'm",
+        "name": "Antonio Ferreiro",
+        "job": "Software engineer"
+    },
+    "github": {
+        "projects":"Projects",
+        "definition": "These are some of my personal projects in Github. You can also take a look directly to my Github profile where I practice old and new features of programming technologies.",
+		"eurosnovos": "Euros Novos",
+		"eurosnovosdef": "Spring Boot application with Thymeleaf templates and Mysql database (Maven project)",
+		"cryptokit": "CryptoKit",
+		"cryptokitdef": "Java Development with Swing tecnology for encryption / decryption using different algorithms (Maven project)",
+		"setupmakeup": "Setup-makeup",
+		"setupmakeupdef": "Web application with Spring MVC framework (XML configuration) and Apache Tiles 3 (Maven project)",
+		"setuptecnorepo": "Setup-tecnorepo",
+		"setuptecnorepodef": "Web application with Struts 2 Framework and Hibernate (XML configuration) (Maven project)",
+		"express": "PortalExpress",
+		"expressdef": "Node Application made with Express Framework and Pug engine template",
+		"peeperjava": "PeeperJava",
+		"peeperjavadef": "Multimodule application with different java sources version (Gradle project). Focused on the practice of new features of the java language.",
+		"peepermaven": "PeeperMaven",
+		"peepermavendef": "Multimodule application focused on the practice of features of the maven project.",
+		"io": "Github.io",
+		"iodef": "Personal Web made with Vue.js and published in https://toniferr.github.io",
+		"peeper": "Peeper",
+		"peeperdef": "Spring Boot application with Thymeleaf templates and h2 database (maven project)"
+    },
+    "footer": {
+        "about": "About me",
+        "aboutprofesional": "I'm Galician and I live in Galicia (Spain). I studied computer engineering at the University of Vigo and since 2016 I am working as a full stack software developer.",
+        "aboutpersonal": "In addition, I also observe the stars and planets, I read history books, I enjoy cycling and I celebrate the victories of Real Madrid :)",
+        "contact": "Contact"
+    }
+}

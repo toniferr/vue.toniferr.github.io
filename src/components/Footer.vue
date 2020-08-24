@@ -10,16 +10,16 @@
                     <div class="col-lg-6 col-sm-12 footer-m">
                         <aside class="f_widget ab_widget">
                             <div class="f_title">
-                                <h3>{{text1}}</h3>
+                                <h3>{{ $t('footer.about') }}</h3>
                             </div>
-                            <p>{{text2}}</p>
-                            <p>{{text3}}</p>
+                            <p>{{ $t('footer.aboutprofesional') }}</p>
+                            <p>{{ $t('footer.aboutpersonal') }}</p>
                     </aside>
                     </div>
                     <div class="col-lg-3 col-sm-12 footer-m">
                         <aside class="f_widget social_widget">
                             <div class="f_title">
-                                <h3>{{text4}}</h3>
+                                <h3>{{ $t('footer.contact') }}</h3>
                             </div>
                             <ul class="list">
                                 <li><a href="https://www.github.com/toniferr" target="_blank"><i class="fab fa-github"></i></a></li>
@@ -33,17 +33,3 @@
             </div>
         </footer>
 </template>
-
-<script>
-export default {
-    name: 'Banner',
-    data() {
-        return {
-            text1: 'About me',
-            text2: 'I\'m Galician and I live in Galicia (Spain). I studied computer engineering at the University of Vigo and since 2016 I am working as a full stack software developer.',
-            text3: 'In addition, I also observe the stars and planets, I read history books, I enjoy cycling and I celebrate the victories of Real Madrid :)',
-            text4: 'Contact'
-        }
-    }
-}
-</script>

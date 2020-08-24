@@ -1,3 +1,39 @@
 {
-  "message": "hello i18n !!"
+  "nav": {
+      "projects": "Proyectos",
+      "about": "Sobre mí"
+  },
+  "banner": {
+      "hi": "Hola! Yo soy",
+      "name": "Antonio Ferreiro",
+      "job": "Ingeniero de software"
+  },
+  "github": {
+      "projects":"Proyectos",
+      "definition": "Estos son algunos de mis proyectos personales en Github. También puede echar un vistazo directamente a mi perfil de Github, donde practico las características antiguas y nuevas de las tecnologías de programación.",
+      "eurosnovos": "Euros Novos",
+      "eurosnovosdef": "Aplicación Spring Boot con plantillas Thymeleaf y base de datos Mysql (proyecto Maven)",
+      "cryptokit": "CryptoKit",
+      "cryptokitdef": "Desarrollo Java con tecnología Swing para cifrado / descifrado utilizando diferentes algoritmos (proyecto Maven)",
+      "setupmakeup": "Setup-makeup",
+      "setupmakeupdef": "Aplicación web con marco Spring MVC (configuración XML) y Apache Tiles 3 (proyecto Maven)",
+      "setuptecnorepo": "Setup-tecnorepo",
+      "setuptecnorepodef": "Aplicación web con Struts 2 Framework e Hibernate (configuración XML) (proyecto Maven)",
+      "express": "PortalExpress",
+      "expressdef": "Aplicación de nodo realizada con el framework Express y el motor de plantillas Pug",
+      "peeperjava": "PeeperJava",
+      "peeperjavadef": "Aplicación multimódulo con diferentes versiones de fuentes java (proyecto Gradle). Centrado en la práctica de nuevas funcionalidades del lenguaje java.",
+      "peepermaven": "PeeperMaven",
+      "peepermavendef": "Aplicación multimódulo enfocada a la práctica de funcionalidades del proyecto maven.",
+      "io": "Github.io",
+      "iodef": "Web personal realizada con Vue.js y publicada en https://toniferr.github.io",
+      "peeper": "Peeper",
+      "peeperdef": "Aplicación Spring Boot con plantillas Thymeleaf y base de datos h2 (proyecto maven)"
+      },
+      "footer": {
+      "about": "Sobre mí",
+      "aboutprofesional": "Soy gallego y vivo en Galicia (España). Estudié ingeniería informática en la Universidad de Vigo y desde 2016 trabajo como desarrollador de software full stack.",
+      "aboutpersonal": "Además, también observo las estrellas y los planetas, leo libros de historia, disfruto del ciclismo y celebro las victorias del Real Madrid :)",
+      "contact": "Contacto"
+  }
 }

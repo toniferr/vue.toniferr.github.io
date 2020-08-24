@@ -1,0 +1,39 @@
+{
+    "nav": {
+        "projects": "Proxectos",
+        "about": "Sobre min"
+    },
+    "banner": {
+        "hi": "Ola! Eu son",
+        "name": "Antonio Ferreiro",
+        "job": "Enxeñeiro de software"
+    },
+    "github": {
+        "projects":"Proxectos",
+        "definition": "Estes son algúns dos meus proxectos persoais en Github. Tamén podes botar unha ollada directamente ao meu perfil de Github onde practico vellas e novas funcións das tecnoloxías da programación.",
+		"eurosnovos": "Euros Novos",
+		"eurosnovosdef": "Aplicación Spring Boot con modelos Thymeleaf e base de datos Mysql (proxecto Maven)",
+		"cryptokit": "CryptoKit",
+		"cryptokitdef": "Desenvolvemento Java con tecnoloxía Swing para o cifrado/descifrado mediante diferentes algoritmos (proxecto Maven)",
+		"setupmakeup": "Setup-makeup",
+		"setupmakeupdef": "Aplicación web con Spring MVC framework (configuración XML) e Apache Tiles 3 (proxecto Maven)",
+		"setuptecnorepo": "Setup-tecnorepo",
+		"setuptecnorepodef": "Aplicación web con Struts 2 Framework e Hibernate (configuración XML) (proxecto Maven)",
+		"express": "PortalExpress",
+		"expressdef": "Aplicación de nodos feita co framework Express e motor de plantillas Pug",
+		"peeperjava": "PeeperJava",
+		"peeperjavadef": "Aplicación multimódulo con distintas versións de fontes java (proxecto Gradle). Centrado na práctica de novas funcións da linguaxe java.",
+		"peepermaven": "PeeperMaven",
+		"peepermavendef": "Aplicación multimódulo centrada na práctica de características do proxecto maven.",
+		"io": "Github.io",
+		"iodef": "Web persoal feita con Vue.js e publicada en https://toniferr.github.io",
+		"peeper": "Peeper",
+		"peeperdef": "Aplicación Spring Boot con modelos Thymeleaf e base de datos h2 (proxecto maven)"
+    },
+    "footer": {
+        "about": "Sobre min",
+        "aboutprofesional": "Son galego e vivo en Galiza (España). Estudei enxeñaría informática na Universidade de Vigo e dende 2016 estou traballando como desenvolvedor de software full stack.",
+        "aboutpersonal": "Ademais, tamén observo as estrelas e os planetas, leo libros de historia, gozo do ciclismo e celebro as vitorias do Real Madrid :)",
+        "contact": "Contacto"
+    }
+}
