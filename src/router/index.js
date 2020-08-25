@@ -12,6 +12,10 @@ Vue.use(VueRouter)
     },
     {
       path: '/:lang',
+      redirect: `/${i18n.locale}`
+    },
+    {
+      path: '/:lang',
       component: {
         render (c) { return c('router-view') }
       },
