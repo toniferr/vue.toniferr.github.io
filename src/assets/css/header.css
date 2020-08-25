@@ -3,7 +3,7 @@
 }
 
 .flag_windows {
-  padding-inline-start: 0px;
+  background: transparent !important;
 }
 
 .flag_button {
