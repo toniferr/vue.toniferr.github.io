@@ -120,11 +120,15 @@
 	}
 	.header_area.white_menu .navbar .nav .nav-item .nav-link {
 		color: #222 !important;
-		height: 8px;		
+		/*height: 8px;		*/
 		margin-left: 22px;
 	}
+	.dropdown  {
+		background: white !important;
+		font: 500 0px/30px "Roboto", sans-serif;
+	}
 	.header_area.white_menu .navbar-nav {
-		height: 155px !important;
+		height: 104px !important;
 	}
 	.contact_info{
 		margin-bottom: 50px;
