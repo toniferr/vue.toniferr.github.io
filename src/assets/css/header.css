@@ -1,5 +1,13 @@
 .flag_languages {
-  width: 4%;
+  width: 25%;
+}
+
+.flag_windows {
+  padding-inline-start: 0px;
+}
+
+.flag_button {
+  box-shadow: 0 0px 0 0 rgba(255, 255, 255, 0.9) inset !important;
 }
 
 .titulo-nombre {

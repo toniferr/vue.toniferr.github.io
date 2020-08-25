@@ -27,4 +27,5 @@ export default {
 <style>
 @import './assets/css/responsive.css';
 @import './assets/css/styles.css';
+/*@import './assets/css/tailwind.css.';*/
 </style>
