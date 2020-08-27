@@ -14,8 +14,8 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                       <ul class="nav navbar-nav menu_nav ml-auto">                
-                        <li class="nav-item"><a class="nav-link" href="#proyectos">{{ $t('nav.projects') }}</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#footer">{{ $t('nav.about') }}</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#proyectos">{{ $t('nav.projects') }}</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#footer">{{ $t('nav.about') }}</a></li> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 <button class="flag_button nav-link btn btn-transparent">
