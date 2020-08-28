@@ -163,9 +163,6 @@
 }
 
 @media (min-width: 992px) {
-  .header_area.white_menu .navbar .navbar-brand img {
-    display: none; 
-  }
     .header_area.white_menu .navbar .navbar-brand img + img {
       display: inline-block; 
     } 
@@ -175,9 +172,6 @@
   .header_area.white_menu .navbar .navbar-brand img {
     display: inline-block; 
   }
-  .header_area.white_menu .navbar .navbar-brand img + img {
-    display: none; 
-  } 
 }
 
 .header_area.white_menu .navbar .nav .nav-item .nav-link {
@@ -186,10 +180,6 @@
 
 .header_area.white_menu.navbar_fixed .main_menu .navbar .navbar-brand img {
   display: inline-block; 
-}
-
-.header_area.white_menu.navbar_fixed .main_menu .navbar .navbar-brand img + img {
-  display: none;
 }
 
 .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {

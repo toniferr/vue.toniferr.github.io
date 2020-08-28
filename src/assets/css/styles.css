@@ -80,7 +80,7 @@ button:focus {
 
 @media (min-width: 992px) {
   .home_banner_area .banner_inner .container, .container-sm {
-      max-width: 900px;
+      max-width: 960px;
   }
 }
 

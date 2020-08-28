@@ -29,6 +29,9 @@
 
 @media (max-width:991px){
 
+	.logo_h {
+		margin-left: 30px;
+	}
 	.box_1620 .titulo-nombre {
 		color: black;
 		margin-left: 20px;
@@ -153,23 +156,13 @@
 	.home_banner_area .banner_inner .banner_content {
 		padding-top: 50px;
 	}
-	.tools_expert {
-		margin-top: 50px;
-	}
-	.latest_blog_inner{
-		margin-bottom: -30px;
-	}
-	.l_blog_item{
-		max-width: 360px;
-		margin: 0px auto 30px;
-	}
-	.portfolio_details_inner .portfolio_right_text {
-		padding-left: 0px;
-	}
 }
 
 @media (max-width:767px){
 	
+	.home_banner_area .banner_inner .home_left_img {
+		display: none;
+	}
 	.home_left_img {		
 		padding: 195px 45px 195px 0px !important; 
 	}
@@ -200,22 +193,12 @@
 		text-align: center;
 		margin-top: 15px;
 	}
-	
-	.welcome_text .row{
-		margin-bottom: -30px;
-	}
-	.wel_item {
-		margin-bottom: 30px;
-	}
-	.welcome_text {
-		margin-top: 0px;
-	}
-	.portfolio_details_inner .portfolio_right_text {
-		margin-top: 50px;
-	}
 }
 
 @media (max-width:600px){
+	.home_banner_area .banner_inner .home_left_img {
+		display: none;
+	}
 }
 
 @media (max-width:575px){
@@ -235,14 +218,8 @@
 	.home_banner_area .banner_inner {
 		min-height: 450px;
 	}
-	.blog_banner .banner_inner .blog_b_text {
-		margin-top: 0px;
-	}
 	.home_banner_area .banner_inner .banner_content img{
 		display: none;
-	}
-	.home_banner_area .banner_inner .banner_content h5 {
-		margin-top: 0px;
 	}
 	.p_120 {
 		padding-top: 40px;
@@ -250,9 +227,6 @@
 	}
 	.main_title h2 {
 		font-size: 25px;
-	}
-	.sample-text-area {
-		padding: 70px 0 70px 0;
 	}
 	.generic-blockquote {
 		padding: 30px 15px 30px 30px;
@@ -301,8 +275,7 @@
 	.banner_area .banner_inner .banner_content h2 {
 		font-size: 32px;
 	}
-	.comments-area .thumb {
-		margin-right: 10px;
-	}
-	
+	.home_banner_area .banner_inner .home_left_img {
+		display: none;
+	}	
 }
