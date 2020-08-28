@@ -28,7 +28,9 @@
 }
 
 @media (max-width:991px){
-
+	.home_banner_area .banner_inner .home_left_img {
+		display: none;
+	}
 	.logo_h {
 		margin-left: 30px;
 	}
@@ -162,9 +164,6 @@
 	
 	.home_banner_area .banner_inner .home_left_img {
 		display: none;
-	}
-	.home_left_img {		
-		padding: 195px 45px 195px 0px !important; 
 	}
 	.home_banner_area {
 		min-height: 500px;
