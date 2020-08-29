@@ -86,7 +86,7 @@
 							<div class="projects_text">
 								<h4>{{ $t('github.peeperpattern') }}</h4>
 							</div>
-							<a href="https://github.com/toniferr/PeeperJava" target="_blank">
+							<a href="https://github.com/toniferr/PeeperPattern" target="_blank">
 								<div class="overlay">
 									<div class="text">{{ $t('github.peeperpatterndef') }}</div>
 								</div>
