@@ -20,7 +20,7 @@
       "setuptecnorepo": "Setup-tecnorepo",
       "setuptecnorepodef": "Aplicación web con Struts 2 Framework e Hibernate (configuración XML) (proyecto Maven)",
       "express": "PortalExpress",
-      "expressdef": "Aplicación de nodo realizada con el framework Express y el motor de plantillas Pug",
+      "expressdef": "Aplicación Node.js realizada con el framework Express y el motor de plantillas Pug",
       "peeperpattern": "PeeperPattern",
       "peeperpatterndef": "Proyecto maven en lenguaje java centrado en la práctica de los patrones de diseños de software",
       "peepermaven": "PeeperMaven",
