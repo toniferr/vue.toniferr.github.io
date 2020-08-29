@@ -27,13 +27,7 @@
 	}
 }
 
-@media (max-width:991px){
-	.home_banner_area .banner_inner .home_left_img {
-		display: none;
-	}
-	.logo_h {
-		margin-left: 30px;
-	}
+@media (max-width:991px){	
 	.box_1620 .titulo-nombre {
 		color: black;
 		margin-left: 20px;
@@ -201,6 +195,9 @@
 }
 
 @media (max-width:575px){
+	.logo_h {
+		margin-left: 15px;
+	}
 	.top_menu {
 		display: none;
 	}
@@ -258,6 +255,9 @@
 }
 
 @media (max-width:480px){
+	.logo_h {
+		margin-left: 10px;
+	}
 	.header_area .navbar-collapse{
 		max-height: 250px;
 	}

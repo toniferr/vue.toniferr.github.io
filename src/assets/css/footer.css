@@ -5,10 +5,6 @@
 .foto-footer{
   height: 180px;
   border-radius: 50%;
-  -moz-transform: rotate(+4deg);
-  -o-transform: rotate(+4deg);
-  -webkit-transform: rotate(+4deg);
-  transform: rotate(+4deg);
 }
 
 .footer_area {
