@@ -10,7 +10,8 @@
     },
     "github": {
         "projects":"Projetos",
-        "definition": "Estes são alguns dos meus projetos pessoais no Github. Você também pode dar uma olhada diretamente no meu perfil no Github, onde pratico recursos antigos e novos de tecnologias de programação",
+        "definition1": "Estes são alguns dos meus projetos pessoais no Github. Você também pode dar uma olhada diretamente no meu perfil no ",
+        "definition2": " onde pratico tecnologias de programação",
 		"eurosnovos": "Euros Novos",
 		"eurosnovosdef": "Aplicação Spring Boot com modelos Thymeleaf e banco de dados Mysql (projeto Maven)",
 		"cryptokit": "CryptoKit",
@@ -33,7 +34,7 @@
     "footer": {
         "about": "Sobre mim",
         "aboutprofesional": "Sou galego e moro na Galiza (Espanha). Estudei Engenharia da Computação na Universidade de Vigo e desde 2016 trabalho como desenvolvedor de software full stack.",
-        "aboutpersonal": "Além disso, também observo as estrelas e os planetas, leio livros de história, gosto de andar de bicicleta e comemoro as vitórias do Real Madrid :)",
+        "aboutweb": "© 2020, Feito com ",
         "contact": "Contato"
     }
 }

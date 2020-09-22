@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="main_title">
 					<h2>{{ $t('github.projects') }}</h2>
-					<p>{{ $t('github.definition') }}</p>
+					<p>{{ $t('github.definition1') }} <a href="https://github.com/toniferr">Github</a> {{ $t('github.definition2') }}</p>
 				</div>
                 <!--<div class="projects_fillter">
 					<ul class="filter list">

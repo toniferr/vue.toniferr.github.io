@@ -10,7 +10,8 @@
     },
     "github": {
         "projects":"Projects",
-        "definition": "These are some of my personal projects in Github. You can also take a look directly to my Github profile where I practice old and new features of programming technologies",
+        "definition1": "These are some of my personal projects in Github. You can also take a look directly to my ",
+        "definition2": " profile where I practice programming technologies",
 		"eurosnovos": "Euros Novos",
 		"eurosnovosdef": "Spring Boot application with Thymeleaf templates and Mysql database (Maven project)",
 		"cryptokit": "CryptoKit",
@@ -33,7 +34,7 @@
     "footer": {
         "about": "About me",
         "aboutprofesional": "I'm Galician and I live in Galicia (Spain). I studied computer engineering at the University of Vigo and since 2016 I am working as a full stack software developer.",
-        "aboutpersonal": "In addition, I also observe the stars and planets, I read history books, I enjoy cycling and I celebrate the victories of Real Madrid :)",
+        "aboutweb": "© 2020, Built with ",
         "contact": "Contact"
     }
 }
