@@ -13,7 +13,6 @@
                                 <h3>{{ $t('footer.about') }}</h3>
                             </div>
                             <p>{{ $t('footer.aboutprofesional') }}</p>
-                            <p>{{ $t('footer.aboutweb') }} <a href="https://es.vuejs.org/">Vue.js</a></p>
                     </aside>
                     </div>
                     <div class="col-lg-3 col-sm-12 footer-m">
@@ -28,6 +27,21 @@
                                 <li><a href="https://www.twitter.com/toni_ferr" target="_blank"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="https://www.instagram.com/toni_ferreiro" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             </ul>
+                        </aside>
+                    </div>
+                </div>
+                <div class="row footer_inner">
+                    <div class="col-lg-4 col-sm-12 footer-m">
+                        <aside class="f_widget social_widget">
+                        </aside>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 footer-m">
+                        <aside class="f_widget social_widget">
+                            <p>{{ $t('footer.aboutweb') }} <a href="https://es.vuejs.org/">Vue.js</a></p>
+                        </aside>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 footer-m">
+                        <aside class="f_widget social_widget">
                         </aside>
                     </div>
                 </div>

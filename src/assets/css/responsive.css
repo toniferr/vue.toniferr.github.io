@@ -1,4 +1,8 @@
 @media (max-width:1619px){
+	.container, .container-sm, .container-md, .container-lg, .container-xl {
+		max-width: 1206px !important;
+	}
+
    .header_area .navbar .search {
 		margin-left: 40px;
 	}
@@ -12,6 +16,7 @@
 }
 
 @media (max-width:1199px){
+
 	.header_area .navbar .nav .nav-item {
 		margin-right: 28px;
 	}
@@ -31,12 +36,6 @@
 	
 	.home_banner_area .banner_inner .banner_content {	
 		display: none;
-	}
-	
-		.box_1620 .titulo-nombre {
-		color: black;
-		margin-left: 20px;
-		margin-bottom: 30px;
 	}
     .navbar-toggler {
         border: none;

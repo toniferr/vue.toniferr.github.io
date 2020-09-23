@@ -2,7 +2,7 @@
         <header class="header_area white_menu" id="index">
           <div class="main_menu" id="mainNav">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                  <div class="container box_1620">
+                  <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <a class="navbar-brand logo_h"><img src="../assets/img/logo.png" alt=""></a>
                     <!--<a class="navbar-brand logo_h"><b class="titulo-nombre">FERREIRO</b></a>  -->

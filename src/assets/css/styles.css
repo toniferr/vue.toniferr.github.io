@@ -94,10 +94,3 @@ button:focus {
   .container {
     max-width: 1175px; } 
 }
-
-@media (min-width: 1620px) {
-  .box_1620 {
-    max-width: 1650px;
-    margin: auto; 
-  }
-}
