@@ -14,7 +14,6 @@ import "bootstrap/dist/css/bootstrap.css"
 import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/fontawesome-free/js/all.js'
 
-
 Vue.config.productionTip = false
 
 // use beforeEach route guard to set the language

@@ -1,5 +1,5 @@
 <template>
-        <footer class="footer_area p_120" id="footer">
+        <footer class="footer_area" id="footer">
             <div class="container">
                 <div class="row footer_inner">
                     <div class="col-lg-3 col-sm-12 footer-m">

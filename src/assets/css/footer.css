@@ -3,13 +3,14 @@
 }
 
 .foto-footer{
-  height: 180px;
+  height: 130px;
   border-radius: 50%;
 }
 
 .footer_area {
   background: #000410; 
   text-align: center;
+  margin-top: 75px;
 }
   
 .f_title {

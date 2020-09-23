@@ -1,5 +1,5 @@
 <template>
-        <header class="header_area white_menu" id="index">
+        <header class="header_area" id="index">
           <div class="main_menu" id="mainNav">
                 <nav class="navbar navbar-expand-lg navbar-light">
                   <div class="container">
