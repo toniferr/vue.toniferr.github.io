@@ -5,13 +5,13 @@
   },
   "banner": {
       "hi": "Hola! Soy",
-      "name": "Antonio Ferreiro",
+      "name": "Toni Ferreiro",
       "job": "Ingeniero de software"
   },
   "github": {
       "projects":"Proyectos",
-      "definition1": "Estos son algunos de mis proyectos personales en Github. También puede echar un vistazo directamente a mi perfil de ",
-      "definition2": " donde practico tecnologías de programación",
+      "definition1": "Estos son algunos de mis proyectos personales ",
+      "definition2": ". Aquí guardo el código que escribo de mis cursos y practico tecnologías de programación por mi cuenta.",
       "eurosnovos": "Euros Novos",
       "eurosnovosdef": "Aplicación Spring Boot con plantillas Thymeleaf y base de datos Mysql (proyecto Maven)",
       "cryptokit": "CryptoKit",

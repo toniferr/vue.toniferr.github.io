@@ -44,9 +44,6 @@
   padding: 0px;
   display: inline-block; 
 }
-.header_area .navbar .nav .nav-item .nav-link:after {
-  display: none; 
-}
 
 .header_area .navbar .nav .nav-item.submenu {
   position: relative; 

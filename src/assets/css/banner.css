@@ -117,7 +117,3 @@
 .banner_area .banner_inner .banner_content .page_link a:last-child {
     margin-right: 0px; 
 }
-
-.banner_area .banner_inner .banner_content .page_link a:last-child:before {
-    display: none; 
-}

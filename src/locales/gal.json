@@ -5,15 +5,15 @@
     },
     "banner": {
         "hi": "Ola! Eu son",
-        "name": "Antonio Ferreiro",
+        "name": "Toni Ferreiro",
         "job": "Enxeñeiro de software"
     },
     "github": {
         "projects":"Proxectos",
-        "definition1": "Estes son algúns dos meus proxectos persoais no Github. Tamén podes botar unha ollada directamente ao meu perfil de ",
-        "definition2": " onde practico as tecnoloxías da programación",
+        "definition1": "Estes son algúns dos meus proxectos persoais do meu ",
+        "definition2": ". Aquí gardo o código que escribo dos meus cursos así como tamén practico as tecnoloxías da programación pola miña conta.",
 		"eurosnovos": "Euros Novos",
-		"eurosnovosdef": "Aplicación Spring Boot con modelos Thymeleaf e base de datos Mysql (proxecto Maven)",
+		"eurosnovosdef": "Aplicación Spring Boot con Thymeleaf e base de datos Mysql (proxecto Maven)",
 		"cryptokit": "CryptoKit",
 		"cryptokitdef": "Desenvolvemento Java con tecnoloxía Swing para o cifrado/descifrado mediante diferentes algoritmos (proxecto Maven)",
 		"setupmakeup": "Setup-makeup",
