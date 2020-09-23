@@ -1,4 +1,7 @@
 @media (max-width:1619px){
+	.logo_h {
+		margin-left: 20px;
+	}
 	.container, .container-sm, .container-md, .container-lg, .container-xl {
 		max-width: 1206px !important;
 	}
@@ -16,6 +19,9 @@
 }
 
 @media (max-width:1199px){
+	.logo_h {
+		margin-left: 20px;
+	}
 
 	.header_area .navbar .nav .nav-item {
 		margin-right: 28px;
@@ -33,6 +39,9 @@
 }
 
 @media (max-width:991px){
+	.logo_h {
+		margin-left: 20px;
+	}
 	
 	.home_banner_area .banner_inner .banner_content {	
 		display: none;
@@ -160,6 +169,9 @@
 }
 
 @media (max-width:767px){
+	.logo_h {
+		margin-left: 20px;
+	}
 	
 	.home_banner_area .banner_inner .home_left_img {
 		display: none;
@@ -194,6 +206,9 @@
 }
 
 @media (max-width:600px){
+	.logo_h {
+		margin-left: 20px;
+	}
 	.home_banner_area .banner_inner .home_left_img {
 		display: none;
 	}
@@ -201,7 +216,7 @@
 
 @media (max-width:575px){
 	.logo_h {
-		margin-left: 15px;
+		margin-left: 20px;
 	}
 	.top_menu {
 		display: none;
@@ -257,7 +272,7 @@
 
 @media (max-width:480px){
 	.logo_h {
-		margin-left: 10px;
+		margin-left: 20px;
 	}
 	.header_area .navbar-collapse{
 		max-height: 250px;

@@ -19,7 +19,7 @@
                         <li class="nav-item"><a class="nav-link" href="#footer">{{ $t('nav.about') }}</a></li> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <button class="flag_button nav-link btn btn-transparent">
+                                <button class="ico_bandera flag_button nav-link btn btn-transparent">
                                 <img :src="require(`@/assets/img/languages/flag_${$i18n.locale}.png`)" alt="flag" class="flag_languages w-8 h-8">
                                 <span class="ml-2">{{ $i18n.locale.toUpperCase() }}</span>
                                 <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path class="heroicon-ui" d="M15.3 9.3a1 1 0 0 1 1.4 1.4l-4 4a1 1 0 0 1-1.4 0l-4-4a1 1 0 0 1 1.4-1.4l3.3 3.29 3.3-3.3z"></path></svg>
