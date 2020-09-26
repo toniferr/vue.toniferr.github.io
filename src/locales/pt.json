@@ -13,7 +13,7 @@
         "definition1": "Estes são alguns dos meus projetos pessoais ",
         "definition2": ". Aqui guardo o código dos meus cursos, bem como o código dos projetos feitos por mim.",
 		"eurosnovos": "Euros Novos",
-		"eurosnovosdef": "Aplicação Spring Boot com modelos Thymeleaf e banco de dados Mysql (projeto Maven)",
+		"eurosnovosdef": "Aplicação Spring Boot com modelos Thymeleaf e banco de dados Mysql (projeto Maven). Publicada en https://euros-novos.herokuapp.com",
 		"cryptokit": "CryptoKit",
 		"cryptokitdef": "Desenvolvimento Java com tecnologia Swing para criptografia/descriptografia utilizando diferentes algoritmos (projeto Maven)",
 		"setupmakeup": "Setup-makeup",

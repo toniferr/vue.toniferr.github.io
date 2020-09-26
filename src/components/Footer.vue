@@ -24,8 +24,8 @@
                                 <li><a href="https://www.github.com/toniferr" target="_blank"><i class="fab fa-github"></i></a></li>
                                 <li><a href="https://es.linkedin.com/in/antonio-ferreiro-couto" target="_blank"><i class="fab fa-linkedin"></i></a></li>
                                 <li><a href="mailto:ferreirocouto@gmail.com" target="_blank"><i class="far fa-envelope"></i></a></li>
-                                <li><a href="https://www.twitter.com/toni_ferr" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="https://www.instagram.com/toni_ferreiro" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <!--<li><a href="https://www.twitter.com/toni_ferr" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://www.instagram.com/toni_ferreiro" target="_blank"><i class="fab fa-instagram"></i></a></li> -->
                             </ul>
                         </aside>
                     </div>

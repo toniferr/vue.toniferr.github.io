@@ -80,6 +80,19 @@
 							</a>
 						</div>
 					</div>
+					<div class="col-lg-4 col-sm-6 javascript">
+						<div class="projects_item">
+							<img class="img-fluid" src="../assets/img/projects/toniferrgithub.jpg" alt="">
+							<div class="projects_text">
+								<h4>{{ $t('github.io') }}</h4>
+							</div>
+							<a href="https://github.com/toniferr/dev.toniferr.github.io" target="_blank">
+								<div class="overlay">
+									<div class="text">{{ $t('github.iodef') }}</div>
+								</div>
+							</a>
+						</div>
+					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="projects_item">
 							<img class="img-fluid" src="../assets/img/projects/peeperpattern.jpg" alt="">
@@ -102,19 +115,6 @@
 							<a href="https://github.com/toniferr/PeeperMaven" target="_blank">
 								<div class="overlay">
 									<div class="text">{{ $t('github.peepermavendef') }}</div>
-								</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6 javascript">
-						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/toniferrgithub.jpg" alt="">
-							<div class="projects_text">
-								<h4>{{ $t('github.io') }}</h4>
-							</div>
-							<a href="https://github.com/toniferr/dev.toniferr.github.io" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.iodef') }}</div>
 								</div>
 							</a>
 						</div>
