@@ -11,7 +11,7 @@
     "github": {
         "projects":"Projects",
         "definition1": "These are some of my personal projects of mine ",
-        "definition2": ". Here I keep the code of my courses as well as the code of projects made by myself.",
+        "definition2": ". Here I keep the code of my courses (I call them Peeper*) as well as the code of projects made by myself.",
 		"eurosnovos": "Euros Novos",
 		"eurosnovosdef": "Spring Boot application with Thymeleaf templates and Mysql database (Maven project). Published in https://euros-novos.herokuapp.com",
 		"cryptokit": "CryptoKit",
