@@ -25,11 +25,11 @@
 		"peeperpattern": "PeeperPattern",
 		"peeperpatterndef": "Projeto Maven em linguagem java com foco na prática de padrões de desenhos de software",
 		"peepermaven": "PeeperMaven",
-		"peepermavendef": "Aplicação multimódulo voltado para a prática de features do projeto maven",
+		"peepermavendef": "Aplicação multimódulo voltado para a prática de funcionalidades do projeto maven",
 		"io": "Github.io",
 		"iodef": "Web pessoal feita com Vue.js e publicada em https://toniferr.github.io",
-		"peeper": "Peeper",
-		"peeperdef": "Aplicação Spring Boot com modelos Thymeleaf e banco de dados h2 (projeto maven)"
+		"peeperandroid": "PeeperAndroid",
+		"peeperandroiddef": "Aplicación android en java voltado para a prática de funcionalidades android"
     },
     "footer": {
         "about": "Sobre mim",

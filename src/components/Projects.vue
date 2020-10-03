@@ -121,13 +121,13 @@
 					</div>
 					<div class="col-lg-4 col-sm-6">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/peeper.jpg" alt="">
+							<img class="img-fluid" src="../assets/img/projects/peeperandroid.png" alt="">
 							<div class="projects_text">
-								<h4>{{ $t('github.peeper') }}</h4>
+								<h4>{{ $t('github.peeperandroid') }}</h4>
 							</div>
-							<a href="https://github.com/toniferr/Peeper" target="_blank">
+							<a href="https://github.com/toniferr/PeeperAndroid" target="_blank">
 								<div class="overlay">
-									<div class="text">{{ $t('github.peeperdef') }}</div>
+									<div class="text">{{ $t('github.peeperandroiddef') }}</div>
 								</div>
 							</a>
 						</div>

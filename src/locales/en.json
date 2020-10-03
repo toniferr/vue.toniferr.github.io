@@ -28,8 +28,8 @@
 		"peepermavendef": "Multimodule application focused on the practice of features of the maven project",
 		"io": "Github.io",
 		"iodef": "Personal Web made with Vue.js and published in https://toniferr.github.io",
-		"peeper": "Peeper",
-		"peeperdef": "Spring Boot application with Thymeleaf templates and h2 database (maven project)"
+        "peeperandroid": "PeeperAndroid",
+        "peeperandroiddef": "Android application made with java focused on the practice of android features"
     },
     "footer": {
         "about": "About me",
