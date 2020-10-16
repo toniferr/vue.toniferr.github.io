@@ -9,9 +9,9 @@
         "job": "Enxeñeiro de software"
     },
     "github": {
-        "projects":"Proxectos",
-        "definition1": "Estes son algúns dos meus proxectos persoais do meu ",
-        "definition2": ". Aquí gardo o código dos meus cursos (chámolles Peeper*) así como tamén o código de proxectos realizados pola miña conta.",
+        "projects":"Proxectos & Traballos",
+        "definition1": "Estes son algúns dos meus proxectos e traballos persoais do meu ",
+        "definition2": ". Aquí gardo o código dos traballos meus cursos (chámolles Peeper*) así como tamén o código de proxectos realizados pola miña conta.",
 		"eurosnovos": "Euros Novos",
 		"eurosnovosdef": "Aplicación Spring Boot con Thymeleaf e base de datos Mysql (proxecto Maven). Publicada en https://euros-novos.herokuapp.com",
 		"cryptokit": "CryptoKit",
