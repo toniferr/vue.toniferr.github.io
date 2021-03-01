@@ -74,6 +74,24 @@
     text-align: left;
 }
 
+.button-git-left{
+    position: absolute;
+    top: 37%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    height: 18%;
+}
+
+.button-open-right {
+    position: absolute;
+    top: 37%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    height: 18%;
+}
+
 .overlay {
     position: absolute;
     top: 0;
