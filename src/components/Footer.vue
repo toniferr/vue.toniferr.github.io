@@ -30,7 +30,7 @@
                         </aside>
                     </div>
                 </div>
-                <div class="row footer_inner">
+                <div class="row footer_inner footer-copy">
                     <div class="col-lg-4 col-sm-12 footer-m">
                         <aside class="f_widget social_widget">
                         </aside>

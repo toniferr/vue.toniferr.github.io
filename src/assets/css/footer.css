@@ -1,5 +1,9 @@
 .footer-m{
-  margin-top: 80px;
+  margin-top: 60px;
+}
+
+.footer-copy{
+  margin-top: -45px !important;
 }
 
 .foto-footer{
