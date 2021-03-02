@@ -22,8 +22,8 @@
 								<h4>{{ $t('github.eurosnovos') }}</h4>
 							</div> 
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button>
-								<button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/eurosnovos" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
+								<a href="https://euros-novos.herokuapp.com/" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">spring-boot</span>
 									<span class="badge bg-warning text-dark badge-project">spring-security</span>
@@ -34,13 +34,6 @@
 									<span class="badge bg-warning text-dark badge-project">mysql</span>
 								</div>							
 							</div>
-							<!--<a href="https://github.com/toniferr/eurosnovos" target="_blank"> 
-								<div class="overlay">
-									<button type="button" class="btn btn-light button-github"><i class="fa fa-link" aria-hidden="true"></i></button>
-									<button type="button" class="btn btn-light button-link"><i class="fab fa-github" aria-hidden="true"></i></button>
-									<div class="text">{{ $t('github.eurosnovosdef') }}</div>
-								</div>
-							</a>-->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6 swing">
@@ -50,21 +43,14 @@
 								<h4>{{ $t('github.cryptokit') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button>
-								<button type="button" class="btn btn-dark button-open-right"><i class="fa fa-download" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/cryptokit" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
+								<a href="https://github.com/toniferr/cryptokit" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-download" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">java-swing</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
 									<span class="badge bg-warning text-dark badge-project">bouncycastle</span>
 								</div>
 							</div>
-							<!--
-							<a href="https://github.com/toniferr/cryptoKit" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.cryptokitdef') }}</div>
-								</div>
-							</a>
-							-->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6 spring">
@@ -74,7 +60,7 @@
 								<h4>{{ $t('github.representados') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-center"><i class="fa fa-link" aria-hidden="true"></i></button>
+								<a href="https://representa2.herokuapp.com/" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fa fa-link" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">spring-boot</span>
 									<span class="badge bg-warning text-dark badge-project">spring-security</span>
@@ -85,11 +71,6 @@
 									<span class="badge bg-warning text-dark badge-project">postgree</span>
 								</div>								
 							</div>
-							<!-- <a href="https://github.com/toniferr/setup-makeup" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.setupmakeupdef') }}</div>
-								</div>
-							</a> -->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6 javascript">
@@ -99,8 +80,8 @@
 								<h4>{{ $t('github.io') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button>
-								<button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/dev.toniferr.github.io" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
+								<a href="https://toniferr.github.io" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">vue.js</span>
 									<span class="badge bg-warning text-dark badge-project">javascript</span>
@@ -109,11 +90,6 @@
 									<span class="badge bg-warning text-dark badge-project">portfolio</span>
 								</div>	
 							</div>
-							<!--<a href="https://github.com/toniferr/dev.toniferr.github.io" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.iodef') }}</div>
-								</div>
-							</a>-->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6 struts">
@@ -123,7 +99,7 @@
 								<h4>{{ $t('github.angular') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/portfolio-angular" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">angular</span>
 									<span class="badge bg-warning text-dark badge-project">typescript</span>
@@ -132,11 +108,6 @@
 									<span class="badge bg-warning text-dark badge-project">css</span>
 								</div>							
 							</div>
-							<!--<a href="https://github.com/toniferr/setup-tecnorepo" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.setuptecnorepodef') }}</div>
-								</div>
-							</a> -->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6 javascript">
@@ -146,7 +117,7 @@
 								<h4>{{ $t('github.express') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/peepernode" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">nodejs</span>
 									<span class="badge bg-warning text-dark badge-project">express</span>
@@ -155,11 +126,6 @@
 									<span class="badge bg-warning text-dark badge-project">javascript</span>
 								</div>								
 							</div>
-							<!--<a href="https://github.com/toniferr/portalExpress" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.expressdef') }}</div>
-								</div>
-							</a> -->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
@@ -169,17 +135,12 @@
 								<h4>{{ $t('github.peeperpattern') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/PeeperPattern" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">patrones de diseño</span>
 									<span class="badge bg-warning text-dark badge-project">java</span>
 								</div>							
 							</div>
-							<!--<a href="https://github.com/toniferr/PeeperPattern" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.peeperpatterndef') }}</div>
-								</div>
-							</a>-->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
@@ -189,17 +150,12 @@
 								<h4>{{ $t('github.peepermaven') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/PeeperMaven" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">java</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
 								</div>							
 							</div>
-							<!--<a href="https://github.com/toniferr/PeeperMaven" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.peepermavendef') }}</div>
-								</div>
-							</a>-->
 						</div>
 					</div>
 					<div class="col-lg-4 col-sm-6">
@@ -209,18 +165,13 @@
 								<h4>{{ $t('github.peeperandroid') }}</h4>
 							</div>
 							<div class="overlay">
-								<button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button>
+								<a href="https://github.com/toniferr/PeeperAndroid" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">java</span>
 									<span class="badge bg-warning text-dark badge-project">android-studio</span>
 									<span class="badge bg-warning text-dark badge-project">gradle</span>
 								</div>							
 							</div>
-							<!--<a href="https://github.com/toniferr/PeeperAndroid" target="_blank">
-								<div class="overlay">
-									<div class="text">{{ $t('github.peeperandroiddef') }}</div>
-								</div>
-							</a>-->
 						</div>
 					</div>
 				</div>
