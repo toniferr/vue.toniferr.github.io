@@ -56,7 +56,7 @@
 					</div>
 					<div class="col-lg-4 col-sm-6 spring">
 						<div class="projects_item">
-							<img class="img-fluid" src="../assets/img/projects/setup-makeup.jpg" alt="">
+							<img class="img-fluid" src="../assets/img/projects/representado.jpg" alt="">
 							<div class="projects_text">
 								<h4>{{ $t('github.representados') }}</h4>
 							</div>
