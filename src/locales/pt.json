@@ -18,6 +18,7 @@
         "angular": "Portfolio-angular",
 		"express": "PeeperNode",
 		"peeperpattern": "PeeperPattern",
+        "pattern": "padrões de desenho",
 		"peepermaven": "PeeperMaven",
 		"io": "Github.io",
 		"peeperandroid": "PeeperAndroid"

@@ -30,7 +30,7 @@
 									<span class="badge bg-warning text-dark badge-project">thymeleaf</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
 									<span class="badge bg-warning text-dark badge-project">spring-data</span>
-									<span class="badge bg-warning text-dark badge-project">hibernate</span>
+									<span class="badge bg-warning text-dark badge-project">jpa</span>
 									<span class="badge bg-warning text-dark badge-project">mysql</span>
 								</div>							
 							</div>
@@ -44,10 +44,11 @@
 							</div>
 							<div class="overlay">
 								<a href="https://github.com/toniferr/cryptokit" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
-								<a href="https://github.com/toniferr/cryptokit" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-download" aria-hidden="true"></i></button></a>
+								<a href="https://github.com/toniferr/cryptoKit/raw/master/download" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-download" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">java-swing</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
+									<span class="badge bg-warning text-dark badge-project">jca</span>
 									<span class="badge bg-warning text-dark badge-project">bouncycastle</span>
 								</div>
 							</div>
@@ -66,8 +67,9 @@
 									<span class="badge bg-warning text-dark badge-project">spring-security</span>
 									<span class="badge bg-warning text-dark badge-project">thymeleaf</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
+									<span class="badge bg-warning text-dark badge-project">cloudinary</span>
 									<span class="badge bg-warning text-dark badge-project">spring-data</span>
-									<span class="badge bg-warning text-dark badge-project">hibernate</span>
+									<span class="badge bg-warning text-dark badge-project">jpa</span>
 									<span class="badge bg-warning text-dark badge-project">postgree</span>
 								</div>								
 							</div>
@@ -83,7 +85,7 @@
 								<a href="https://github.com/toniferr/dev.toniferr.github.io" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<a href="https://toniferr.github.io" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
-									<span class="badge bg-warning text-dark badge-project">vue.js</span>
+									<span class="badge bg-warning text-dark badge-project">vuejs</span>
 									<span class="badge bg-warning text-dark badge-project">javascript</span>
 									<span class="badge bg-warning text-dark badge-project">html</span>
 									<span class="badge bg-warning text-dark badge-project">css</span>
@@ -137,7 +139,8 @@
 							<div class="overlay">
 								<a href="https://github.com/toniferr/PeeperPattern" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
-									<span class="badge bg-warning text-dark badge-project">patrones de diseño</span>
+									<span class="badge bg-warning text-dark badge-project">{{ $t('github.pattern')}}</span>
+									<span class="badge bg-warning text-dark badge-project">uml</span>
 									<span class="badge bg-warning text-dark badge-project">java</span>
 								</div>							
 							</div>
@@ -152,8 +155,9 @@
 							<div class="overlay">
 								<a href="https://github.com/toniferr/PeeperMaven" target="_blank"><button type="button" class="btn btn-dark button-git-center"><i class="fab fa-github" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
-									<span class="badge bg-warning text-dark badge-project">java</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
+									<span class="badge bg-warning text-dark badge-project">plugins</span>
+									<span class="badge bg-warning text-dark badge-project">java</span>
 								</div>							
 							</div>
 						</div>
