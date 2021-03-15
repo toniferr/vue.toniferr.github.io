@@ -23,7 +23,7 @@
 							</div> 
 							<div class="overlay">
 								<a href="https://github.com/toniferr/eurosnovos19" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
-								<a href="https://euros-novos.herokuapp.com/" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button></a>
+								<a href="https://euros-novos19.herokuapp.com/" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-link" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">spring-boot</span>
 									<span class="badge bg-warning text-dark badge-project">spring-security</span>
