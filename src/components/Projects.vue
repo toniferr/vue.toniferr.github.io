@@ -44,7 +44,7 @@
 							</div>
 							<div class="overlay">
 								<a href="https://github.com/toniferr/cryptokit" target="_blank"><button type="button" class="btn btn-dark button-git-left"><i class="fab fa-github" aria-hidden="true"></i></button></a>
-								<a href="https://github.com/toniferr/cryptoKit/raw/master/download" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-download" aria-hidden="true"></i></button></a>
+								<a href="https://github.com/toniferr/cryptoKit/releases/tag/1.0.0" target="_blank"><button type="button" class="btn btn-dark button-open-right"><i class="fa fa-download" aria-hidden="true"></i></button></a>
 								<div class="badges-projects">
 									<span class="badge bg-warning text-dark badge-project">java-swing</span>
 									<span class="badge bg-warning text-dark badge-project">maven</span>
